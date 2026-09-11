@@ -17,7 +17,7 @@
 //	{
 //		Delay_ms (24);
 //		while(GPIO_ReadInputDataBit(GPIOB,GPIO_Pin_1)==0)
-//			Delay_ms (24);
+//			Delay_ms (25);
 //			Key_Num=1;
 //	}
 //	
